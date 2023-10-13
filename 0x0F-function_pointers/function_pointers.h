@@ -11,5 +11,6 @@ int (*f)(int a, int b);
 int (*get_op_func(char *s))(int, int);
 int op_sub(int a, int b);
 int main(int argc, char *argv[]);
+int main(int argc, char *argv[]);
 
 #endif /* MAIN_H */
